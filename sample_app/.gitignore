@@ -20,4 +20,6 @@
 /node_modules
 /yarn-error.log
 
+/spring/*.pid
+
 .byebug_history
